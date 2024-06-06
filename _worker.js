@@ -1,4 +1,4 @@
-#const TELEGRAPH_URL = 'https://api.openai.com';
+// const TELEGRAPH_URL = 'https://api.openai.com';
 const TELEGRAPH_URL = 'https://chromewebstore.google.com/?utm_source=ext_app_menu';
 
 
